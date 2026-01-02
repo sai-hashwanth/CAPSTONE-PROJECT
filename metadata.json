@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI-Powered Fraud Protection System",
+  "description": "An advanced AI-powered fraud detection dashboard for online transactions. It utilizes Gemini 2.5 to analyze transaction patterns, simulate ML inference, and provide real-time risk assessments.",
+  "requestFramePermissions": []
+}
